@@ -1,0 +1,4 @@
+@startuml 
+Jugador -> Areena 
+Arena -> Guerrero 
+@enduml
